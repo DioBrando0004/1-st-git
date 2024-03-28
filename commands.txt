@@ -1,0 +1,10 @@
+git init
+git add text.txt
+git add .
+git commit -m "Initial commit"
+git status
+git log
+git add .\text.txt
+git -h
+git checkout
+git push
